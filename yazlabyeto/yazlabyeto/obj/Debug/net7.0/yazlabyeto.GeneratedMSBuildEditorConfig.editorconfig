@@ -1,0 +1,207 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = yazlabyeto
+build_property.RootNamespace = yazlabyeto
+build_property.ProjectDir = C:\Users\Aylin\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\Masaüstü\yazlabyeto\yazlabyeto\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Aylin\OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi\Masaüstü\yazlabyeto\yazlabyeto
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Areas/Admin/Views/AdminRol/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Sb2xcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Areas/Admin/Views/AdminRol/RolAtama.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Sb2xcUm9sQXRhbWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Areas/Admin/Views/AdminRol/RolEkleme.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Sb2xcUm9sRWtsZW1lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Areas/Admin/Views/AdminRol/UserList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Sb2xcVXNlckxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Areas/Admin/Views/AdminUser/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Vc2VyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Areas/Admin/Views/AdminUser/KullaniciEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Vc2VyXEt1bGxhbmljaUVrbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Areas/Admin/Views/AdminUser/KullaniciGuncelle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Vc2VyXEt1bGxhbmljaUd1bmNlbGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Areas/Admin/Views/AntrenorDanisanAtama/Atamaİslemi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQW50cmVub3JEYW5pc2FuQXRhbWFcQXRhbWHEsHNsZW1pLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Areas/Admin/Views/AntrenorDanisanAtama/DanisanList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQW50cmVub3JEYW5pc2FuQXRhbWFcRGFuaXNhbkxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Areas/Admin/Views/AntrenorDanisanAtama/Eslestirme.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQW50cmVub3JEYW5pc2FuQXRhbWFcRXNsZXN0aXJtZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Views/Admin/AdminNavbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5OYXZiYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Views/Antrenor/AntrenorBilgiList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW50cmVub3JcQW50cmVub3JCaWxnaUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Views/Antrenor/AntrenorNavbarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW50cmVub3JcQW50cmVub3JOYXZiYXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Views/Antrenor/BeslenmeBilgiList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW50cmVub3JcQmVzbGVubWVCaWxnaUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Views/Antrenor/BeslenmeGuncelle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW50cmVub3JcQmVzbGVubWVHdW5jZWxsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Views/Antrenor/BeslenmePlani.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW50cmVub3JcQmVzbGVubWVQbGFuaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Views/Antrenor/BilgiEkleme.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW50cmVub3JcQmlsZ2lFa2xlbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Views/Antrenor/BilgiGuncelle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW50cmVub3JcQmlsZ2lHdW5jZWxsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Views/Antrenor/EgzersizBilgiList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW50cmVub3JcRWd6ZXJzaXpCaWxnaUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Views/Antrenor/EgzersizGuncelle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW50cmVub3JcRWd6ZXJzaXpHdW5jZWxsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Views/Antrenor/EgzersizProgrami.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW50cmVub3JcRWd6ZXJzaXpQcm9ncmFtaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Views/Antrenor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW50cmVub3JcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Views/Antrenor/KisiselBilgiGuncelle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW50cmVub3JcS2lzaXNlbEJpbGdpR3VuY2VsbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Views/Danisan/AntrenoreGoreDanisanList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuaXNhblxBbnRyZW5vcmVHb3JlRGFuaXNhbkxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Views/Danisan/BeslenmePlanList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuaXNhblxCZXNsZW5tZVBsYW5MaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Views/Danisan/DanisanBilgiList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuaXNhblxEYW5pc2FuQmlsZ2lMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Views/Danisan/DanisanNavbarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuaXNhblxEYW5pc2FuTmF2YmFyUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Views/Danisan/EgzersizProgramList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuaXNhblxFZ3plcnNpelByb2dyYW1MaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Views/Danisan/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuaXNhblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Views/Danisan/KisiselBilgiGuncelle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuaXNhblxLaXNpc2VsQmlsZ2lHdW5jZWxsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Views/Danisan/İlerlemeKayitEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuaXNhblzEsGxlcmxlbWVLYXlpdEVrbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Views/Danisan/İlerlemeKayitGuncelle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuaXNhblzEsGxlcmxlbWVLYXlpdEd1bmNlbGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Views/Kayit/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F5aXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Views/Shared/AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Views/Shared/AntrenorLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFudHJlbm9yTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Views/Shared/DanisanLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXERhbmlzYW5MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Views/Shared/_Layoutbos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRib3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aylin/OneDrive - Kocaeli Universitesi Uzaktan Egitim Merkezi/Masaüstü/yazlabyeto/yazlabyeto/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-3it3gq4ij6
